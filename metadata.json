@@ -1,0 +1,6 @@
+{
+  "name": "Pannawat Learning Space",
+  "description": "ศูนย์รวมบทเรียน คลังคลิปการสอน และขอบเขตข้อสอบ MCQ สำหรับนักศึกษาแพทย์ (SKIN & GEN 5 Block)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
